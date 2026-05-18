@@ -1,0 +1,50 @@
+# 📊 Data Analytics Projects by Doreen Wathimu
+
+Welcome to my portfolio repository featuring Excel and Power BI projects I've created to demonstrate practical data analysis skills and storytelling through visuals.
+
+---
+
+## 1. Excel Dashboard Analysis
+
+📁 File: `Doreen Data Analytics Cumulative Project Data.xlsx`
+
+This Excel dashboard visualizes sales performance across different product categories and customer segments. It includes:
+
+- Pivot tables and pivot charts
+- Dynamic slicers for interactive filtering
+- Conditional formatting to highlight key metrics
+- Summary KPIs like total sales, profit margin, and customer count
+
+🔍 **Skills demonstrated**: Excel formulas, data cleaning, dashboard creation, business insights.
+
+---
+
+## 2. Power BI Global Mart Report
+
+📁 File: `global mart sales performance analysis report.pbix`
+
+This Power BI report provides an interactive view of sales performance for a fictional global mart. It covers:
+
+- Regional sales comparisons
+- KPIs such as revenue, profit, and quantity sold
+- Visual trends over time using bar, line, and map charts
+- Drill-downs and slicers for user interaction
+
+🔍 **Skills demonstrated**: Data modeling, DAX measures, Power Query, dashboard storytelling.
+
+---
+
+## 🔧 Tools Used
+
+- Microsoft Excel
+- Microsoft Power BI
+- Data cleaning & transformation
+- Business Intelligence (BI) principles
+
+---
+
+## 👩🏽‍💻 About Me
+
+I’m Doreen Wathimu, a passionate data analyst and IT professional currently enrolled in the Moringa Data Science Bootcamp. My work focuses on turning raw data into real insights that inform better decisions.
+
+📫 [Connect on GitHub](https://github.com/WathimuDoreen) | ✉️ wathimugitari@gmail.com
